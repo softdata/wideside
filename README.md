@@ -48,7 +48,7 @@
 
 ## [学习之道](https://github.com/softdata/atasteofmemory/blob/master/the_art_of_learning.md)
 
-
+## [潜在商业机会](https://github.com/softdata/atasteofmemory/blob/master/businessMind.md)
 
 
 
