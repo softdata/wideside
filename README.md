@@ -46,13 +46,15 @@
 - Case study
 - 程前朋友圈
 
-## [学习之道](https://github.com/softdata/atasteofmemory/blob/master/the_art_of_learning.md)
+## 2025
 
-## [潜在商业机会](https://github.com/softdata/atasteofmemory/blob/master/businessMind.md)
+- [学习之道](https://github.com/softdata/atasteofmemory/blob/master/the_art_of_learning.md)
 
-## [20年人生的经验](https://github.com/softdata/atasteofmemory/blob/master/the_truth_of_life.md)
+- [潜在商业机会](https://github.com/softdata/atasteofmemory/blob/master/businessMind.md)
 
-## [李小龙 在东西方交错中徘徊](https://www.xinjiapo.news/news/128704)
+- [20年人生的经验](https://github.com/softdata/atasteofmemory/blob/master/the_truth_of_life.md)
+
+- [李小龙 在东西方交错中徘徊](https://www.xinjiapo.news/news/128704)
 
 
 
