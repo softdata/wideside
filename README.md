@@ -46,7 +46,13 @@
 - Case study
 - 程前朋友圈
 
-## 2025
+
+## 最紧迫的两件事
+
+- Build your confidence
+- Build your credit
+
+# 2025
 
 - [学习之道](https://github.com/softdata/atasteofmemory/blob/master/the_art_of_learning.md)
 
