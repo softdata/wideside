@@ -8,7 +8,7 @@
 - Discover
 - Explore
 
-极限运动，攀岩，潜水
+极限运动，攀岩，潜水，跳伞
 
 ## (2) A taste of memory
 
@@ -51,6 +51,10 @@
 
 - Build your confidence
 - Build your credit
+
+## Recommendation
+
+[LIVI REDDEN](https://www.liviredden.com/about)
 
 # 2025
 
