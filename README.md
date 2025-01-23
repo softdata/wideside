@@ -66,6 +66,9 @@
 
 [LIVI REDDEN](https://www.liviredden.com/about)
 
+[Mei Lin Fung](https://peoplecentered.net/people/mei-lin-fung/)
+
+
 # 2025
 
 - [学习之道](https://github.com/softdata/atasteofmemory/blob/master/the_art_of_learning.md)
