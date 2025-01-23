@@ -52,6 +52,12 @@
 - Build your confidence
 - Build your credit
 
+## Literature Review
+
+- [Rethinking Global Institutions for Today's World](https://www.newamerica.org/planetary-politics/future-of-institutions/blog/rethinking-global-institutions-for-todays-world/)
+
+- [Global Governance: Present and Future](https://www.nature.com/articles/palcomms201545)
+
 ## Recommendation
 
 [LIVI REDDEN](https://www.liviredden.com/about)
