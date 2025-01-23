@@ -60,6 +60,9 @@
 
 - [Empowering Individuals](https://www.pewresearch.org/internet/2022/02/07/4-empowering-individuals/)
 
+- [Visions of the Internet in 2035](https://www.elon.edu/u/news/2022/02/07/visions-of-the-internet-in-2035/)
+
+
 
 
 ## Recommendation
