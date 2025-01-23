@@ -58,6 +58,10 @@
 
 - [Global Governance: Present and Future](https://www.nature.com/articles/palcomms201545)
 
+- [Empowering Individuals](https://www.pewresearch.org/internet/2022/02/07/4-empowering-individuals/)
+
+
+
 ## Recommendation
 
 [LIVI REDDEN](https://www.liviredden.com/about)
