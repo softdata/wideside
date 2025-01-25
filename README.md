@@ -87,5 +87,5 @@
 
 - [完美世界](https://github.com/softdata/atasteofmemory/blob/master/perfectWorld.md)
 
-
+- [数字人](https://github.com/softdata/atasteofmemory/blob/master/digital_man.md)
 
