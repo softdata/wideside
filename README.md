@@ -81,7 +81,7 @@
 
 - [潜在商业机会](https://github.com/softdata/atasteofmemory/blob/master/businessMind.md)
 
-- [20年人生的经验](https://github.com/softdata/atasteofmemory/blob/master/the_truth_of_life.md)
+- [数字移民](https://github.com/softdata/atasteofmemory/blob/master/the_truth_of_life.md)
 
 - [李小龙 在东西方交错中徘徊](https://www.xinjiapo.news/news/128704)
 
