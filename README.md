@@ -62,7 +62,9 @@
 
 - [Visions of the Internet in 2035](https://www.elon.edu/u/news/2022/02/07/visions-of-the-internet-in-2035/)
 
+## Marshall Mcluhan
 
+[The Medium is the Message](https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf)
 
 
 ## Recommendation
