@@ -42,8 +42,13 @@
 ## 运营官 架构师 经理人
 
 - MBA工商管理: 整体视角下的学习方法 Achievement
-- 学习目标达成
-- Case study
+
+- 信息技术与管理学 MBA Professional Track
+  
+- Marketing Management
+
+- Strategic marketing management
+
 - 程前朋友圈
 
 
