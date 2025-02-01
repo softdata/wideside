@@ -96,3 +96,6 @@
 
 - [数字人](https://github.com/softdata/atasteofmemory/blob/master/digital_man.md)
 
+- [黄金职业](https://github.com/softdata/atasteofmemory/blob/master/find_your_destiny.md)
+
+
