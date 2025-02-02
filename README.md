@@ -98,4 +98,7 @@
 
 - [黄金职业](https://github.com/softdata/atasteofmemory/blob/master/find_your_destiny.md)
 
+- [少数派](https://github.com/softdata/atasteofmemory/blob/master/theMinority.md)
+
+
 
