@@ -94,7 +94,7 @@
 
 - [完美世界](https://github.com/softdata/atasteofmemory/blob/master/perfectWorld.md)
 
-- [数字人](https://github.com/softdata/atasteofmemory/blob/master/digital_man.md)
+- [数字人](https://github.com/softdata/atasteofmemory/blob/master/digitalMan.md)
 
 - [黄金职业](https://github.com/softdata/atasteofmemory/blob/master/find_your_destiny.md)
 
