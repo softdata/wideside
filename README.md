@@ -100,5 +100,5 @@
 
 - [少数派](https://github.com/softdata/atasteofmemory/blob/master/theMinority.md)
 
-
+- [机器感知能力](https://github.com/softdata/atasteofmemory/blob/master/perception_in_robots.md)
 
